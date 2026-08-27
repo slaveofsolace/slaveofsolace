@@ -24,8 +24,7 @@ I’m **sol**. I make browser tools, Windows software, small games, and the occa
 `01` [Insta Toolbox](https://github.com/slaveofsolace/Insta-Toolbox)  
 `02` [My Bot 2.0](https://github.com/slaveofsolace/My-Bot-2.0)  
 `03` [Solcord](https://github.com/slaveofsolace/Solcord)  
-`04` [Soltex](https://github.com/slaveofsolace/soltex)  
-`05` [portfolio world](https://slaveofsolace.com/play/)
+`04` [Soltex](https://github.com/slaveofsolace/soltex)
 
 ### workbench
 
