@@ -17,7 +17,7 @@ I’m **sol**. I make browser tools, Windows software, small games, and the occa
 - co-building [nafs](https://nafs.fyi/) — a Muslim companion for prayer, Qur'an, dhikr, fasting, reflection, and journaling
 - shipping [Insta Toolbox](https://github.com/slaveofsolace/Insta-Toolbox) — a local-first Instagram utility for Tampermonkey and the web
 - continuing [My Bot 2.0](https://github.com/slaveofsolace/My-Bot-2.0) — a local control center around a long-running Clash of Clans automation project
-- shaping [KYX.IO](https://slaveofsolace.com/work/projects/kyx-io/) — a browser arena FPS
+- shaping [KYX.IO](https://slaveofsolace.com/work/project-kyx-io/) — a browser arena FPS
 
 ### selected work
 
